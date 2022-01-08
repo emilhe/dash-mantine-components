@@ -43,6 +43,7 @@ import Progress from "./components/Progress.react";
 import NotificationsProvider from "./components/NotificationsProvider.react";
 import NotificationHandler from "./components/NotificationHandler.react";
 import ScrollArea from "./components/ScrollArea.react";
+import TestComponent from "./components/TestComponent.react";
 // import RangeSlider from './components/RangeSlider.react';
 
 
@@ -92,5 +93,5 @@ export {
     NotificationsProvider,
     NotificationHandler,
     ScrollArea,
-    // RangeSlider,
+    TestComponent
 };
